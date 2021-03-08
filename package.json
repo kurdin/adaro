@@ -1,6 +1,6 @@
 {
   "name": "adaro-fixed",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "An express renderer for DustJs Templates",
   "main": "index.js",
   "scripts": {
@@ -22,7 +22,7 @@
     "aproba": "^1.0.1",
     "core-util-is": "^1.0.0",
     "debuglog": "^1.0.1",
-    "dustjs-helpers-fixed": "~1.7.4",
+    "dustjs-helpers-fixed": "~1.8.1",
     "dustjs-linkedin-fixed": "~2.7.5",
     "freshy": "^1.0.0",
     "path-is-absolute": "^1.0.0",
